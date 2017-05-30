@@ -10,7 +10,7 @@ var {
 
 exports.framework = 'React';
 exports.title = 'Geolocation';
-exports.description = 'Exemplo de utilização da Geolocalização.';
+exports.description = 'Utilizando a Geolocalização.';
 
 exports.examples = [
   {
